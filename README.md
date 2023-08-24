@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Student's engagement detection system for online lectures using ML**
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m currently learning **AI and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreyash112002](https://github.com/shreyash112002)
 
